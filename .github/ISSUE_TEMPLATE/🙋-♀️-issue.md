@@ -11,9 +11,9 @@ assignees: ''
 
 ### 📝 Check List
 문제 해결을 위해 수행한 단계의 대괄호 안에 x를 입력하여 체크해 주세요.
-- [] Question Table Issue 검색을 해보았다.
-- [] Issue와 해결방안에 대해서 곰곰이 생각을 해보았다.
-- [] 문제해결을 위해 Google, Stackoverflow 등에서 검색을 해보았다.
+- [ ] Question Table Issue 검색을 해보았다.
+- [ ] Issue와 해결방안에 대해서 곰곰이 생각을 해보았다.
+- [ ] 문제해결을 위해 Google, Stackoverflow 등에서 검색을 해보았다.
 
 ### 🖥️ Basic Information
 정확한 답변을 위해 여러분의 개발 환경과 이슈가 발생한 기술에 대해 알려주세요.
