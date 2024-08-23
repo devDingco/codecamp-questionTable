@@ -26,7 +26,7 @@ assignees: ''
 
 ### Issue
 📣 Issue를 남겨주세요.
-📣 사진 첨부가 필요한 경우, 에디터 하단의 'Attach files by dragging ...'을 클릭하세요.
+📣 사진 첨부가 필요한 경우, 에디터 하단의 'Paste, drop, or to add files'을 클릭하세요.
 📣 코드 첨부가 필요한 경우, 전체 코드 상단과 하단에 백틱(`)을 3번 입력하여 감싸주세요.
 
 ### keywords
